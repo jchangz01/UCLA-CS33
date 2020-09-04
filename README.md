@@ -9,6 +9,7 @@ Scores earned for each lab are displayed below (out of 100, except the BombLab i
 | BombLab     | 79     |
 | AttackLab   | 100    |
 | ParallelLab | 108    | 
+
 Extra-credit was awarded for both the Parallel and Bomb Lab
 
 Scores earned for each homework assignment are displayed below (out of 1)
